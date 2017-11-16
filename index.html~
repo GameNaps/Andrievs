@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Andrievs Portfolio</title>
+            <meta property="og:image:width" content="2560">
+            <meta property="og:image:height" content="1600">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300" rel="stylesheet">
+            
+            <style>
+                
+            body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #58FA58;
+}
+               body{
+            
+                font-family: 'Roboto Condensed', sans-serif;
+                
+            
+            }
+
+
+
+
+            .bg {
+
+
+
+
+background-color:grey;
+    /* Full height */
+    height: 50%; 
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+        
+            .body1{
+                background-color: #088A08;
+                text-align:center;
+
+
+}
+
+
+
+
+            ul {
+
+
+    list-style-type: none;
+    margin: 0;
+    padding: 2px;
+    overflow: hidden;
+    background-color: #00FF00;
+}
+#Andrievs {
+
+
+float:left;
+}
+
+
+li {
+    float: right;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #51000B;
+}
+
+
+.body1{
+
+
+width:100%;
+margin:auto;
+
+
+}
+
+
+
+
+        </style>
+    </head>
+    <body>
+
+
+
+
+   
+<div class="info">
+
+
+
+
+<ul class="list">
+<li><a href="pages/parmani.html">Par Mani</a></li>
+<li><a href="#nodarbības">Nodarbības</a></li>
+<li><a href="index.html">Sākums</a></li>
+<li id="Andrievs"><a href="../index">Andrievs</a></li>
+
+
+
+
+
+
+</ul>
+    </div>
+
+
+
+
+<div class="bg">
+
+
+</div>
+
+
+
+
+<div class="body1">
+
+
+<p>Unreal engine  is the best</p>
+
+
+
+
+<p>UE </p>
+
+
+<img src="http://i0.kym-cdn.com/photos/images/original/000/480/551/b04.gif" width=100px>
+
+
+</div>
+
+
+
+
+
+
+
+
+    </body>
+</html>
